@@ -2970,7 +2970,7 @@ client.on("guildMemberAdd", member => {
 
 client.on('ready', function(){
     var ms = 10000 ;
-    var setGame = [' 1help ','OneFamily | Server ' ];
+    var setGame = [' !!help ','Malicious™ | Server ' ];
     var i = -1;
     var j = 0;
     setInterval(function (){
